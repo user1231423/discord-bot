@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>3.4.2-SNAPSHOT</version>
+		<relativePath/>
+	</parent>
+	
+	<groupId>com.edg</groupId>
+	<artifactId>discord-bot</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>discord-bot</name>
+	<description>Discord Bot</description>
+	
+	<properties>
+		<java.version>23</java.version>
+		<dv8tion.version>5.0.0</dv8tion.version>
+	</properties>
+	
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		
+	    <dependency>
+	        <groupId>org.springframework.boot</groupId>
+	        <artifactId>spring-boot-configuration-processor</artifactId>
+	        <optional>true</optional>
+	    </dependency>
+	    
+		<dependency>
+		    <groupId>com.github.ben-manes.caffeine</groupId>
+		    <artifactId>caffeine</artifactId>
+		</dependency>
+		
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		    <artifactId>spring-boot-starter-cache</artifactId>
+		</dependency>    
+
+		<dependency>
+		    <groupId>org.projectlombok</groupId>
+		    <artifactId>lombok</artifactId>
+		    <scope>provided</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		
+		<!-- JDA (Java Discord API) - Core Library for Discord Interaction -->
+	    <dependency>
+	        <groupId>net.dv8tion</groupId>
+	        <artifactId>JDA</artifactId>
+	        <version>${dv8tion.version}</version>
+	    </dependency>
+    
+    	<!-- Logback (For logging Discord events and Spring actions) -->
+	    <dependency>
+	        <groupId>ch.qos.logback</groupId>
+	        <artifactId>logback-classic</artifactId>
+	    </dependency>
+	    
+		<dependency>
+		    <groupId>commons-codec</groupId>
+		    <artifactId>commons-codec</artifactId>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+	        <plugin>
+	            <groupId>org.apache.maven.plugins</groupId>
+	            <artifactId>maven-compiler-plugin</artifactId>
+	            <configuration>
+	                <source>23</source>
+	                <target>23</target>
+	                <annotationProcessorPaths>
+	                    <path>
+	                        <groupId>org.projectlombok</groupId>
+	                        <artifactId>lombok</artifactId>
+	                        <version>1.18.36</version>
+	                    </path>
+	                </annotationProcessorPaths>
+	            </configuration>
+	        </plugin>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<excludes>
+						<exclude>
+							<groupId>org.projectlombok</groupId>
+							<artifactId>lombok</artifactId>
+						</exclude>
+					</excludes>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+	<repositories>
+		<repository>
+			<id>spring-snapshots</id>
+			<name>Spring Snapshots</name>
+			<url>https://repo.spring.io/snapshot</url>
+			<releases>
+				<enabled>false</enabled>
+			</releases>
+		</repository>
+	</repositories>
+	<pluginRepositories>
+		<pluginRepository>
+			<id>spring-snapshots</id>
+			<name>Spring Snapshots</name>
+			<url>https://repo.spring.io/snapshot</url>
+			<releases>
+				<enabled>false</enabled>
+			</releases>
+		</pluginRepository>
+	</pluginRepositories>
+
+</project>

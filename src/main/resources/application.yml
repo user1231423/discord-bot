@@ -1,0 +1,12 @@
+discord:
+  token: ""
+
+server:
+  port: 8080
+  host: "localhost"
+
+# Optional: You can also add other configurations for different parts of your application
+logging:
+  level:
+    root: INFO
+    org.springframework.web: ERROR

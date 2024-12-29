@@ -1,0 +1,235 @@
+2024-12-28 15:20:57 [main] INFO  c.e.d.DiscordBotApplicationTests - Starting DiscordBotApplicationTests using Java 23.0.1 with PID 4064 (started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-28 15:20:57 [main] INFO  c.e.d.DiscordBotApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-12-28 15:20:58 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-28 15:20:58 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-28 15:20:59 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-28 15:20:59 [main] INFO  c.e.d.DiscordBotApplicationTests - Started DiscordBotApplicationTests in 2.131 seconds (process running for 2.701)
+2024-12-28 15:20:59 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-28 15:20:59 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-28 15:21:08 [main] INFO  c.e.d.DiscordBotApplicationTests - Starting DiscordBotApplicationTests using Java 23.0.1 with PID 10288 (started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-28 15:21:08 [main] INFO  c.e.d.DiscordBotApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-12-28 15:21:09 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-28 15:21:09 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-28 15:21:10 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-28 15:21:10 [main] INFO  c.e.d.DiscordBotApplicationTests - Started DiscordBotApplicationTests in 2.107 seconds (process running for 2.687)
+2024-12-28 15:21:10 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-28 15:21:10 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:04:37 [main] INFO  c.e.d.DiscordBotApplication - Starting DiscordBotApplication using Java 23.0.1 with PID 8248 (C:\Users\JEVG\eclipse-workspace\discord-bot\target\classes started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:04:37 [main] INFO  c.e.d.DiscordBotApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:04:38 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-29 13:04:38 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:04:38 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-29 13:04:38 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-29 13:04:38 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-29 13:04:38 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 899 ms
+2024-12-29 13:04:38 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:04:39 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:04:39 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:04:40 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:04:40 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-29 13:04:40 [main] INFO  c.e.d.DiscordBotApplication - Started DiscordBotApplication in 2.811 seconds (process running for 3.218)
+2024-12-29 13:04:40 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:04:40 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:04:44 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.external.JDACaller - Message sent to Discord: Bom dia <@nipps1998> tens aqui uma ajuda pra encontrar trabalho!
+
+Podes começar a ver estes links e a mandar curriculos:
+https://www.net-empregos.com/emprego-madeira.asp
+https://www.indeed.com
+https://europass.europa.eu/en
+
+2024-12-29 13:04:47 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.external.JDACaller - Message sent to Discord: Bom dia <@nipps1998> tens aqui uma ajuda pra encontrar trabalho!
+
+Podes começar a ver estes links e a mandar curriculos:
+https://www.net-empregos.com/emprego-madeira.asp
+https://www.indeed.com
+https://europass.europa.eu/en
+
+2024-12-29 13:05:12 [main] INFO  c.e.d.DiscordBotApplication - Starting DiscordBotApplication using Java 23.0.1 with PID 14152 (C:\Users\JEVG\eclipse-workspace\discord-bot\target\classes started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:05:12 [main] INFO  c.e.d.DiscordBotApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:05:13 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-29 13:05:13 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:05:13 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-29 13:05:13 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-29 13:05:13 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-29 13:05:13 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 831 ms
+2024-12-29 13:05:13 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:05:14 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:05:14 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:05:14 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:05:14 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-29 13:05:14 [main] INFO  c.e.d.DiscordBotApplication - Started DiscordBotApplication in 2.718 seconds (process running for 3.097)
+2024-12-29 13:05:14 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:05:14 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:05:20 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.external.JDACaller - Message sent to Discord: Bom dia @nipps1998 tens aqui uma ajuda pra encontrar trabalho!
+
+Podes começar a ver estes links e a mandar curriculos:
+https://www.net-empregos.com/emprego-madeira.asp
+https://www.indeed.com
+https://europass.europa.eu/en
+
+2024-12-29 13:05:23 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.external.JDACaller - Message sent to Discord: Bom dia @nipps1998 tens aqui uma ajuda pra encontrar trabalho!
+
+Podes começar a ver estes links e a mandar curriculos:
+https://www.net-empregos.com/emprego-madeira.asp
+https://www.indeed.com
+https://europass.europa.eu/en
+
+2024-12-29 13:06:37 [main] INFO  c.e.d.DiscordBotApplication - Starting DiscordBotApplication using Java 23.0.1 with PID 5396 (C:\Users\JEVG\eclipse-workspace\discord-bot\target\classes started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:06:37 [main] INFO  c.e.d.DiscordBotApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:06:38 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-29 13:06:38 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:06:38 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-29 13:06:38 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-29 13:06:38 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-29 13:06:38 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 796 ms
+2024-12-29 13:06:38 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:06:39 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:06:39 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:06:39 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:06:39 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-29 13:06:39 [main] INFO  c.e.d.DiscordBotApplication - Started DiscordBotApplication in 2.496 seconds (process running for 2.87)
+2024-12-29 13:06:39 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:06:39 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:06:43 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.external.JDACaller - Message sent to Discord: Bom dia <@!231146336928530432> tens aqui uma ajuda pra encontrar trabalho!
+
+Podes começar a ver estes links e a mandar curriculos:
+https://www.net-empregos.com/emprego-madeira.asp
+https://www.indeed.com
+https://europass.europa.eu/en
+
+2024-12-29 13:06:46 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.external.JDACaller - Message sent to Discord: Bom dia <@!231146336928530432> tens aqui uma ajuda pra encontrar trabalho!
+
+Podes começar a ver estes links e a mandar curriculos:
+https://www.net-empregos.com/emprego-madeira.asp
+https://www.indeed.com
+https://europass.europa.eu/en
+
+2024-12-29 13:07:33 [main] INFO  c.e.d.DiscordBotApplicationTests - Starting DiscordBotApplicationTests using Java 23.0.1 with PID 3108 (started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:07:33 [main] INFO  c.e.d.DiscordBotApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:07:33 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:07:34 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:07:34 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:07:35 [main] INFO  c.e.d.DiscordBotApplicationTests - Started DiscordBotApplicationTests in 2.117 seconds (process running for 2.713)
+2024-12-29 13:07:35 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:07:35 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:09:18 [main] INFO  c.e.d.DiscordBotApplicationTests - Starting DiscordBotApplicationTests using Java 23.0.1 with PID 15768 (started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:09:18 [main] INFO  c.e.d.DiscordBotApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:09:19 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:09:19 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:09:20 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:09:20 [main] INFO  c.e.d.DiscordBotApplicationTests - Started DiscordBotApplicationTests in 2.176 seconds (process running for 2.772)
+2024-12-29 13:09:20 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:09:20 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:17:09 [main] INFO  c.e.d.DiscordBotApplication - Starting DiscordBotApplication using Java 23.0.1 with PID 19180 (C:\Users\JEVG\eclipse-workspace\discord-bot\target\classes started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:17:09 [main] INFO  c.e.d.DiscordBotApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:17:10 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-29 13:17:10 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:17:10 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-29 13:17:10 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-29 13:17:10 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-29 13:17:10 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 806 ms
+2024-12-29 13:17:10 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:17:11 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:17:11 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:17:11 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:17:11 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-29 13:17:11 [main] INFO  c.e.d.DiscordBotApplication - Started DiscordBotApplication in 2.665 seconds (process running for 3.035)
+2024-12-29 13:17:11 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:17:11 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:18:18 [main] INFO  c.e.d.DiscordBotApplication - Starting DiscordBotApplication using Java 23.0.1 with PID 20536 (C:\Users\JEVG\eclipse-workspace\discord-bot\target\classes started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:18:18 [main] INFO  c.e.d.DiscordBotApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:18:19 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-29 13:18:19 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:18:19 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-29 13:18:19 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-29 13:18:19 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-29 13:18:19 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 801 ms
+2024-12-29 13:18:19 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:18:20 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:18:20 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:18:20 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:18:20 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-29 13:18:20 [main] INFO  c.e.d.DiscordBotApplication - Started DiscordBotApplication in 2.66 seconds (process running for 3.029)
+2024-12-29 13:18:20 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:18:20 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:19:30 [main] INFO  c.e.d.DiscordBotApplication - Starting DiscordBotApplication using Java 23.0.1 with PID 20804 (C:\Users\JEVG\eclipse-workspace\discord-bot\target\classes started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:19:30 [main] INFO  c.e.d.DiscordBotApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:19:31 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-29 13:19:31 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:19:31 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-29 13:19:31 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-29 13:19:31 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-29 13:19:31 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 817 ms
+2024-12-29 13:19:31 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:19:32 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:19:32 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:19:32 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:19:32 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-29 13:19:32 [main] INFO  c.e.d.DiscordBotApplication - Started DiscordBotApplication in 2.486 seconds (process running for 2.849)
+2024-12-29 13:19:33 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:19:33 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:20:28 [JDA MainWS-ReadThread] ERROR net.dv8tion.jda.api.JDA - One of the EventListeners had an uncaught exception
+java.lang.NullPointerException: Cannot read the array length because "input" is null
+	at java.base/java.security.MessageDigest.update(MessageDigest.java:357)
+	at java.base/java.security.MessageDigest.digest(MessageDigest.java:432)
+	at org.apache.commons.codec.digest.DigestUtils.sha256(DigestUtils.java:602)
+	at org.apache.commons.codec.digest.DigestUtils.sha256Hex(DigestUtils.java:636)
+	at com.edg.discord_bot.listeners.MessageEmbedListener.onMessageReceived(MessageEmbedListener.java:28)
+	at net.dv8tion.jda.api.hooks.ListenerAdapter.onEvent(ListenerAdapter.java:456)
+	at net.dv8tion.jda.api.hooks.InterfacedEventManager.handle(InterfacedEventManager.java:98)
+	at net.dv8tion.jda.internal.hooks.EventManagerProxy.handleInternally(EventManagerProxy.java:88)
+	at net.dv8tion.jda.internal.hooks.EventManagerProxy.handle(EventManagerProxy.java:70)
+	at net.dv8tion.jda.internal.JDAImpl.handleEvent(JDAImpl.java:169)
+	at net.dv8tion.jda.internal.handle.MessageCreateHandler.handleInternally(MessageCreateHandler.java:138)
+	at net.dv8tion.jda.internal.handle.SocketHandler.handle(SocketHandler.java:39)
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onDispatch(WebSocketClient.java:1009)
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onEvent(WebSocketClient.java:892)
+	at net.dv8tion.jda.internal.requests.WebSocketClient.handleEvent(WebSocketClient.java:870)
+	at net.dv8tion.jda.internal.requests.WebSocketClient.onBinaryMessage(WebSocketClient.java:1048)
+	at com.neovisionaries.ws.client.ListenerManager.callOnBinaryMessage(ListenerManager.java:385)
+	at com.neovisionaries.ws.client.ReadingThread.callOnBinaryMessage(ReadingThread.java:276)
+	at com.neovisionaries.ws.client.ReadingThread.handleBinaryFrame(ReadingThread.java:996)
+	at com.neovisionaries.ws.client.ReadingThread.handleFrame(ReadingThread.java:755)
+	at com.neovisionaries.ws.client.ReadingThread.main(ReadingThread.java:108)
+	at com.neovisionaries.ws.client.ReadingThread.runMain(ReadingThread.java:64)
+	at com.neovisionaries.ws.client.WebSocketThread.run(WebSocketThread.java:45)
+2024-12-29 13:27:01 [main] INFO  c.e.d.DiscordBotApplication - Starting DiscordBotApplication using Java 23.0.1 with PID 20556 (C:\Users\JEVG\eclipse-workspace\discord-bot\target\classes started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:27:01 [main] INFO  c.e.d.DiscordBotApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:27:02 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-29 13:27:02 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:27:02 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-29 13:27:02 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-29 13:27:02 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-29 13:27:02 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 818 ms
+2024-12-29 13:27:02 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:27:03 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:27:03 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:27:03 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:27:03 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-29 13:27:03 [main] INFO  c.e.d.DiscordBotApplication - Started DiscordBotApplication in 2.664 seconds (process running for 3.038)
+2024-12-29 13:27:03 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:27:03 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:31:21 [main] INFO  c.e.d.DiscordBotApplication - Starting DiscordBotApplication using Java 23.0.1 with PID 6760 (C:\Users\JEVG\eclipse-workspace\discord-bot\target\classes started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:31:21 [main] INFO  c.e.d.DiscordBotApplication - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:31:22 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-29 13:31:22 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:31:22 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-29 13:31:22 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-29 13:31:22 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-29 13:31:22 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 812 ms
+2024-12-29 13:31:22 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:31:23 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:31:23 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:31:23 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-29 13:31:23 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-29 13:31:23 [main] INFO  c.e.d.DiscordBotApplication - Started DiscordBotApplication in 2.684 seconds (process running for 3.065)
+2024-12-29 13:31:23 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:31:23 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
+2024-12-29 13:33:48 [main] INFO  c.e.d.DiscordBotApplicationTests - Starting DiscordBotApplicationTests using Java 23.0.1 with PID 21612 (started by JEVG in C:\Users\JEVG\eclipse-workspace\discord-bot)
+2024-12-29 13:33:48 [main] INFO  c.e.d.DiscordBotApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-12-29 13:33:48 [main] INFO  c.edg.discord_bot.config.JDAConfig - Initializing Discord bot...
+2024-12-29 13:33:49 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+2024-12-29 13:33:50 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2024-12-29 13:33:50 [main] INFO  c.e.d.DiscordBotApplicationTests - Started DiscordBotApplicationTests in 2.451 seconds (process running for 3.039)
+2024-12-29 13:33:50 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+2024-12-29 13:33:50 [JDA MainWS-ReadThread] INFO  c.edg.discord_bot.config.JDAConfig - Bot is ready! Logged in as: pide-bot
